@@ -19,36 +19,36 @@ proteger el endpoint que corresponde a la venta. los endpoints de las consultas 
 ---
 Para el proyecto, se consideró el siguiente diagrama ER
 
-   ![Diagrama ER](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/DiagramaER_DonDonas_NET_Core.png)
+   ![Diagrama ER](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/assets/DiagramaER_DonDonas_NET_Core.png)
 
 Listado de endpoints desarrollados:
 
-   ![Endpoints](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/Endpoints.png)
+   ![Endpoints](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/Endpoints.png)
 
 Consulta de todas las ventas:
 
-   ![VentasTotales](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/EndpointOrders.png)
+   ![VentasTotales](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/EndpointOrders.png)
 
 Consulta de ventas por Id:
 
-   ![VentasPorId](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/EndpointOrderById.png)
+   ![VentasPorId](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/EndpointOrderById.png)
 
 Operacion no permitida por no estar autenticado (Code 401):
 
-   ![ErrorCode401](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/NotAutenticated.png)
+   ![ErrorCode401](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/NotAutenticated.png)
    
 Login:
 
-   ![login](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/login.png)
+   ![login](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/login.png)
 
 Bearer + token:
 
-   ![Auth](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/Auth.png)
+   ![Auth](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/Auth.png)
 
 Authorized:
 
-   ![Auth2](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/Auth2.png)
+   ![Auth2](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/Auth2.png)
 
 Venta permitida ya que ha sido autenticado:
 
-   ![Auth2](https://github.com/ivan3911/PanaderiaDonDonas_MVC/blob/main/assets/EndpointOrdersOK.png)
+   ![EndpointOrdersOK](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/EndpointOrdersOK.png)
