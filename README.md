@@ -19,7 +19,7 @@ proteger el endpoint que corresponde a la venta. los endpoints de las consultas 
 ---
 Para el proyecto, se consideró el siguiente diagrama ER
 
-   ![Diagrama ER](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/assets/DiagramaER_DonDonas_NET_Core.png)
+   ![Diagrama ER](https://github.com/ivan3911/PanaderiaDonDonas_NET_Core/blob/main/assets/DiagramaER_DonDonas_NET_Core.png)
 
 Listado de endpoints desarrollados:
 
